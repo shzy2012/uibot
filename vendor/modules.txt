@@ -1,0 +1,9 @@
+# github.com/shzy2012/common v0.0.0-20200228124418-f7421e3d0e4a
+github.com/shzy2012/common/errors
+github.com/shzy2012/common/log
+github.com/shzy2012/common/network
+github.com/shzy2012/common/tool
+# gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc
+gopkg.in/alexcesaro/quotedprintable.v3
+# gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
+gopkg.in/gomail.v2

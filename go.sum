@@ -1,0 +1,6 @@
+github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/mafredri/cdp v0.25.0/go.mod h1:hgdiA0yp1uqhSaDOHJWPgXpMbh+LAfUdD9vbN2AM8gE=
+github.com/shzy2012/common v0.0.0-20200228124418-f7421e3d0e4a h1:Vuhnq2sb0+meperiq5jEhfewff3A1DfU5OcobCYjYB0=
+github.com/shzy2012/common v0.0.0-20200228124418-f7421e3d0e4a/go.mod h1:rUKGRCppy1VFtXpINYBxtoFYTcKDkIhrKS868tLlvSM=
+gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc/go.mod h1:m7x9LTH6d71AHyAX77c9yqWCCa3UKHcVEj9y7hAtKDk=
+gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df/go.mod h1:LRQQ+SO6ZHR7tOkpBDuZnXENFzX8qRjMDMyPD6BRkCw=
