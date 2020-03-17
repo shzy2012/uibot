@@ -28,7 +28,7 @@ type UiBot struct {
 }
 
 //NewUiBot 实例化
-func NewUiBot(appKey, secret, cmdUrl string) *UiBot {
+func NewUiBot(cmdUrl, appKey, secret string) *UiBot {
 	return &UiBot{
 		appKey:    appKey,
 		appSecret: secret,
