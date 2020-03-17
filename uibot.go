@@ -46,11 +46,11 @@ type TaskBody struct {
 	IsNowRun    int         `json:"isNow"`       //是否立即运行 0否 1是
 }
 
-//Args 默认UiBot的参数
+//Args 默认UiBot的参数,结合实际情况,自定义该结构体
 type Args struct {
-	Name string      `json:"ndame"` //命令名称
-	Cmd  string      `json:"cmd"`   //命令
-	Data interface{} `json:"data"`  //数据
+	Name string      `json:"name"` //命令名称
+	Cmd  string      `json:"cmd"`  //命令
+	Data interface{} `json:"data"` //数据
 }
 
 /***********************
