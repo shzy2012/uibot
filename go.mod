@@ -1,4 +1,4 @@
-module uibot
+module github.com/shzy2012/uibot
 
 go 1.13
 
