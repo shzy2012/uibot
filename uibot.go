@@ -48,9 +48,9 @@ type TaskBody struct {
 
 //Args 默认UiBot的参数
 type Args struct {
-	Name string      `json:"ndame"` //命令民初
-	Cmd  string      `json:"cmd"`
-	Data interface{} `json:"data"`
+	Name string      `json:"ndame"` //命令名称
+	Cmd  string      `json:"cmd"`   //命令
+	Data interface{} `json:"data"`  //数据
 }
 
 /***********************
