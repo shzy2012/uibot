@@ -6,7 +6,7 @@
 
 
 
-example
+## Example
 
 ```golang
 package main
